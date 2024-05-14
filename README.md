@@ -1,4 +1,4 @@
-# Showcase advanced Power BI capabilities to perform data visualization by creating a dashboard for the analysis of data professionals' demographics across multiple key countries globally.
+# The analysis of data professionals' demographics across multiple key countries globally
 
 Data Analysis Findings:
 - The majority of individuals in the data industry hold titles such as data scientist, data engineer, data architect, and data analyst.
